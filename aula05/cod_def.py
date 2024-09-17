@@ -11,7 +11,7 @@ def funcao_processamento():
 
 
 
-
+    pass
 if __name__ == "__main__":   
     # Mensagem de inicio do programa
     print("--- --- Iniciando o programa --- ---")
